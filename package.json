@@ -1,0 +1,35 @@
+{
+  "name": "javascript-strong-password-generator",
+  "version": "1.0.0",
+  "description": "Strong Password Generator using Fortuna",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sethblack/javascript-strong-password-generator.git"
+  },
+  "keywords": [
+    "strong",
+    "password",
+    "generator"
+  ],
+  "author": "Seth Black <sblack@sethserver.com> (https://www.sethserver.com)",
+  "license": "Apache 2.0",
+  "bugs": {
+    "url": "https://github.com/sethblack/javascript-strong-password-generator/issues"
+  },
+  "homepage": "https://github.com/sethblack/javascript-strong-password-generator#readme",
+  "devDependencies": {
+    "eslint": "^4.11.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "mocha": "^4.0.1"
+  },
+  "dependencies": {
+    "javascript-fortuna": "file:../javascript-fortuna",
+    "js-sha512": "^0.6.0",
+    "systeminformation": "^3.33.5"
+  }
+}
