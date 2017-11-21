@@ -96,7 +96,7 @@ $ npm run webpack
 
 # Core Concept
 
-Just read ("Password Rules Are Bullshit")[https://blog.codinghorror.com/password-rules-are-bullshit/].
+Just read ["Password Rules Are Bullshit"](https://blog.codinghorror.com/password-rules-are-bullshit/).
 
 ## API
 
