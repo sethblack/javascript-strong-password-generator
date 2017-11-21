@@ -28,7 +28,7 @@
     "mocha": "^4.0.1"
   },
   "dependencies": {
-    "javascript-fortuna": "file:../javascript-fortuna",
+    "javascript-fortuna": "^1.0.8",
     "js-sha512": "^0.6.0",
     "systeminformation": "^3.33.5"
   }
