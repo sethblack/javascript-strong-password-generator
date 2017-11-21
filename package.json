@@ -2,7 +2,7 @@
   "name": "javascript-strong-password-generator",
   "version": "1.0.0",
   "description": "Strong Password Generator using Fortuna",
-  "main": "index.js",
+  "main": "lib/jsspg.js",
   "scripts": {
     "babel": "babel lib -d build --presets env",
     "test": "mocha",
