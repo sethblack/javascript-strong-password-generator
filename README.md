@@ -1,6 +1,6 @@
 # javascript-strong-password-generator
 
-JavaScript Strong Password Generator: based on Jeff Atwood's Post ("Password Rules Are Bullshit")[https://blog.codinghorror.com/password-rules-are-bullshit/].
+JavaScript Strong Password Generator: based on Jeff Atwood's Post ["Password Rules Are Bullshit"](https://blog.codinghorror.com/password-rules-are-bullshit/).
 
 Currently uses six unicode blocks, and I don't see why we can't use them all; this just makes the best looking passwords.
 
