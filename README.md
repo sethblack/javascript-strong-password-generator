@@ -17,7 +17,7 @@ This is a quick out-of-the-box usage example. This is not how you'd use it in pr
 ```javascript
 const jsspg = require('javascript-strong-password-generator');
 
-fortuna.init();
+jsspg.init();
 const newPassword = jsspg.generate();
 
 console.log(newPassword);
@@ -88,7 +88,7 @@ $ npm run webpack
 <script src="js/jsspg.min.js"></script>
 <script>
 (function () {
-  fortuna.init();
+  jsspg.init();
 
   var newPassword = jsspg.generate()
   alert(newPassword);
