@@ -1,10 +1,12 @@
-# javascript-strong-password-generator
+# Javascript Strong Unicode Password Generator
 
-JavaScript Strong Password Generator: based on Jeff Atwood's Post ["Password Rules Are Bullshit"](https://blog.codinghorror.com/password-rules-are-bullshit/).
+[![Abracadabra by taleas.com](https://www.taleas.com/static/images/comics/Abracadabra.png "Abracadabra by taleas.com")](https://www.taleas.com/comics/magician-wrong-password.html)
+
+This tool is based on Jeff Atwood's Post ["Password Rules Are Bullshit"](https://blog.codinghorror.com/password-rules-are-bullshit/).
 
 You can view a working demo at [https://www.sethserver.com/unicode-random-password-generator.html](https://www.sethserver.com/unicode-random-password-generator.html)
 
-Currently uses six unicode blocks, and I don't see why we can't use them all; this just makes the best looking passwords.
+It currently uses six unicode blocks, but I don't see any reason why one can't use them all; this just makes the best looking passwords.
 
 ## Installation
 
@@ -98,7 +100,7 @@ $ npm run webpack
 
 # Core Concept
 
-Just read ["Password Rules Are Bullshit"](https://blog.codinghorror.com/password-rules-are-bullshit/).
+["Password Rules Are Bullshit"](https://blog.codinghorror.com/password-rules-are-bullshit/).
 
 ## API
 
